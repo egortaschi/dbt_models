@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+/1-infancy/logs/
+/1-infancy/target/
+/1-infancy/dbt_modules/
+/2-toddlerhood/logs/
+/2-toddlerhood/target/
+/2-toddlerhood/dbt_modules/
+/logs/
+/venv/
+/dbtenv/
+/dbt101/
