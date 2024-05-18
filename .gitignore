@@ -6,6 +6,8 @@
 /2-toddlerhood/logs/
 /2-toddlerhood/target/
 /2-toddlerhood/dbt_modules/
+/raw-data/target
+/raw-data/logs
 /logs/
 /venv/
 /dbtenv/

@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: DBT_MATURITY_BILLING_DATA
+    database: DBT101
+    tables: 
+      - name: claims
+      - name: claim_line
+      - name: claim_diagnosis
+
+  - name: DBT_MATURITY_EHR_DATA
+    database: DBT101
+    tables:        
+      - name: doc_specialties
+      - name: patients
+      - name: doctors
